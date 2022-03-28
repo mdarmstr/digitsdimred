@@ -1,5 +1,7 @@
 # This is a sample Python script.
-# Comparison of dimensionality reduction techniques on the digits dataset. Just for learning
+# Comparison of dimensionality reduction techniques on the digits dataset
+#
+
 
 from sklearn.datasets import load_digits
 from sklearn.model_selection import train_test_split
